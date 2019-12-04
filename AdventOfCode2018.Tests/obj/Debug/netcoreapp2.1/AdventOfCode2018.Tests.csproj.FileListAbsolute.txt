@@ -1,0 +1,17 @@
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2018.Tests.deps.json
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2018.Tests.runtimeconfig.json
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2018.Tests.runtimeconfig.dev.json
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2018.Tests.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2018.Tests.pdb
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.csprojAssemblyReference.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.AssemblyInfoInputs.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.AssemblyInfo.cs
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.pdb
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2018.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2018.pdb
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.csproj.CopyComplete

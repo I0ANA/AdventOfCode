@@ -1,0 +1,11 @@
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.deps.json
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.runtimeconfig.json
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.runtimeconfig.dev.json
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.pdb
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.csprojAssemblyReference.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.csproj.CoreCompileInputs.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.AssemblyInfoInputs.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.AssemblyInfo.cs
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.pdb
