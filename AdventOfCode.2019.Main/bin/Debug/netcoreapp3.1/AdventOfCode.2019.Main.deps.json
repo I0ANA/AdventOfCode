@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdventOfCode.2019.Main/1.0.0": {
+        "runtime": {
+          "AdventOfCode.2019.Main.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventOfCode.2019.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

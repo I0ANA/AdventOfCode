@@ -1,0 +1,10 @@
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\bin\Debug\netcoreapp3.1\AdventOfCode2019.Main.exe
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\bin\Debug\netcoreapp3.1\AdventOfCode2019.Main.deps.json
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\bin\Debug\netcoreapp3.1\AdventOfCode2019.Main.runtimeconfig.json
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\bin\Debug\netcoreapp3.1\AdventOfCode2019.Main.runtimeconfig.dev.json
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\bin\Debug\netcoreapp3.1\AdventOfCode2019.Main.dll
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\bin\Debug\netcoreapp3.1\AdventOfCode2019.Main.pdb
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\obj\Debug\netcoreapp3.1\AdventOfCode2019.Main.AssemblyInfoInputs.cache
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\obj\Debug\netcoreapp3.1\AdventOfCode2019.Main.AssemblyInfo.cs
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\obj\Debug\netcoreapp3.1\AdventOfCode2019.Main.dll
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Main\obj\Debug\netcoreapp3.1\AdventOfCode2019.Main.pdb
