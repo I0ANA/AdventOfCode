@@ -21,11 +21,11 @@ namespace AdventOfCode2018
 
             //do the actual work here
             var fileImporter = serviceProvider.GetService<IFileImporter>();
-            var frequencies = fileImporter.ReadFile("2018_Day1.txt");
+            var frequencyCahnges = fileImporter.ReadFile("2018_Day1.txt");
 
             var calibrator = serviceProvider.GetService<IFrequencyCalibrator>();
 
-            var calibration = calibrator.Calibrate(frequencies.ToArray());
+            var calibration = calibrator.GetLocation(frequencyCahnges.ToArray());
 
             Console.WriteLine(calibration);
 

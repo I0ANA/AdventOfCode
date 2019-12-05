@@ -2,6 +2,6 @@
 {
     public interface IFrequencyCalibrator
     {
-        int Calibrate(int[] frequencies);
+        int GetLocation(int[] frequencies);
     }
 }
