@@ -15,7 +15,7 @@ namespace AdventOfCode2019.Main
 
             //setup our DI
             var serviceProvider = new ServiceCollection()
-                .AddSingleton< IModuleEngine, ModuleEngine>()
+                .AddSingleton<IFuelCalculator, FuelCalculator>()
                 .AddSingleton<IFileImporter, FileImporter>()
                 .AddSingleton<IFileProvider>(physicalProvider)
                 .BuildServiceProvider();
@@ -24,7 +24,7 @@ namespace AdventOfCode2019.Main
             var fileImporter = serviceProvider.GetService<IFileImporter>();
             var modulesMasses = fileImporter.ReadFile("AdventOfCode2019_Day1.txt");
 
-            var moduleEngine = serviceProvider.GetService<IModuleEngine>();
+            var moduleEngine = serviceProvider.GetService<IFuelCalculator>();
 
             var totalFuelRequirement = moduleEngine.ProcessMasses(modulesMasses.ToArray());
 
