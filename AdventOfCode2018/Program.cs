@@ -3,6 +3,7 @@ using Microsoft.Extensions.FileProviders;
 using System;
 using System.IO;
 using System.Linq;
+using AdventOfCode.Core;
 
 namespace AdventOfCode2018
 {

@@ -1,0 +1,7 @@
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\bin\Debug\netcoreapp2.1\AdventOfCode.Core.deps.json
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\bin\Debug\netcoreapp2.1\AdventOfCode.Core.dll
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\bin\Debug\netcoreapp2.1\AdventOfCode.Core.pdb
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.AssemblyInfoInputs.cache
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.AssemblyInfo.cs
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.dll
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.pdb

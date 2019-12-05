@@ -11,4 +11,8 @@
     <PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="3.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AdventOfCode.Core\AdventOfCode.Core.csproj" />
+  </ItemGroup>
+
 </Project>

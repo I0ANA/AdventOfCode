@@ -1,0 +1,12 @@
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.deps.json
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.dll
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.csprojAssemblyReference.cache
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.AssemblyInfoInputs.cache
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.AssemblyInfo.cs
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.pdb
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.dll
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.pdb
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp3.1\AdventOfCode.2019.Main.exe
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp3.1\AdventOfCode.2019.Main.dll
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp3.1\AdventOfCode.2019.Main.pdb
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp3.1\AdventOfCode.2019.Tests.csproj.CopyComplete
