@@ -1704,10 +1704,24 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "AdventOfCode.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.0.1"
+        },
+        "compile": {
+          "bin/placeholder/AdventOfCode.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdventOfCode.Core.dll": {}
+        }
+      },
       "AdventOfCode2018/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "AdventOfCode.Core": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.0.1",
           "Microsoft.Extensions.FileProviders.Abstractions": "3.0.1",
           "Microsoft.Extensions.FileProviders.Physical": "3.0.1"
@@ -6055,6 +6069,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "AdventOfCode.Core/1.0.0": {
+      "type": "project",
+      "path": "../AdventOfCode.Core/AdventOfCode.Core.csproj",
+      "msbuildProject": "../AdventOfCode.Core/AdventOfCode.Core.csproj"
     },
     "AdventOfCode2018/1.0.0": {
       "type": "project",

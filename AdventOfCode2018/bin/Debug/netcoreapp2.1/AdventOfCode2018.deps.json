@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "AdventOfCode2018/1.0.0": {
         "dependencies": {
+          "AdventOfCode.Core": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.0.1",
           "Microsoft.Extensions.FileProviders.Abstractions": "3.0.1",
           "Microsoft.Extensions.FileProviders.Physical": "3.0.1"
@@ -86,6 +87,14 @@
             "fileVersion": "4.700.19.46214"
           }
         }
+      },
+      "AdventOfCode.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.0.1"
+        },
+        "runtime": {
+          "AdventOfCode.Core.dll": {}
+        }
       }
     }
   },
@@ -150,6 +159,11 @@
       "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
       "path": "system.runtime.compilerservices.unsafe/4.6.0",
       "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    },
+    "AdventOfCode.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

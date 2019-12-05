@@ -293,6 +293,19 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
+      },
+      "AdventOfCode.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.0.1"
+        },
+        "compile": {
+          "bin/placeholder/AdventOfCode.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdventOfCode.Core.dll": {}
+        }
       }
     }
   },
@@ -906,10 +919,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "AdventOfCode.Core/1.0.0": {
+      "type": "project",
+      "path": "../AdventOfCode.Core/AdventOfCode.Core.csproj",
+      "msbuildProject": "../AdventOfCode.Core/AdventOfCode.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "AdventOfCode.Core >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 3.0.1",
       "Microsoft.Extensions.FileProviders.Abstractions >= 3.0.1",
       "Microsoft.Extensions.FileProviders.Physical >= 3.0.1",
@@ -945,7 +964,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Igentics\\Projects\\LearningProjects\\AdventOfCode\\AdventOfCode.Core\\AdventOfCode.Core.csproj": {
+              "projectPath": "E:\\Igentics\\Projects\\LearningProjects\\AdventOfCode\\AdventOfCode.Core\\AdventOfCode.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
