@@ -1,37 +1,39 @@
 ﻿using System;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 
 namespace AdventOfCode2019.Main
 {
     public class FuelCalculator : IFuelCalculator
     {
-        public int GetRequiredFuel(int moduleMass)
+        public int GetRequiredFuelForModuleMass(int moduleMass)
         {
             decimal dec = moduleMass / 3;
             return (int)Math.Floor(dec) - 2;
         }
 
-        public int ProcessMasses(params int[] masses)
+        public int GetRequiredFuelForModulesMasses(params int[] masses)
         {
-            return masses.Sum(GetRequiredFuel);
+            return masses.Sum(GetRequiredFuelForModuleMass);
         }
 
-        public int GetRequiredFuelFuel(int requiredFuel, int mass)
+        public int GetRequiredFuelForFuelMass(int fuelMass)
         {
-            if (mass <= 0)
+            if (fuelMass <= 0)
                 return 0;
 
-            var currentReqFuel = GetRequiredFuel(mass);
+            var currentReqFuel = GetRequiredFuelForModuleMass(fuelMass);
 
             if (currentReqFuel <= 0)
                 return 0;
-
-            var totalReqFuel = requiredFuel + currentReqFuel;
-
-            totalReqFuel += GetRequiredFuelFuel(totalReqFuel, GetRequiredFuel(mass));
+            
+            var totalReqFuel = currentReqFuel + GetRequiredFuelForFuelMass(currentReqFuel);
 
             return totalReqFuel;
+        }
+
+        public int GetRequiredFuelForFuelMasses(params int[] fuelMassed)
+        {
+            return fuelMassed.Sum(GetRequiredFuelForFuelMass);
         }
     }
 }

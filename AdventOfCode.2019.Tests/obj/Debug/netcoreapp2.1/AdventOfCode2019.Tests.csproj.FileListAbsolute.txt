@@ -6,13 +6,13 @@ E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\D
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2019.Tests.runtimeconfig.dev.json
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2019.Tests.dll
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2019.Tests.pdb
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode.Core.dll
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2019.Main.dll
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode2019.Main.pdb
+E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode.Core.pdb
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2019.Tests.csprojAssemblyReference.cache
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2019.Tests.AssemblyInfoInputs.cache
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2019.Tests.AssemblyInfo.cs
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2019.Tests.csproj.CopyComplete
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2019.Tests.dll
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2019.Tests.pdb
-E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode.Core.dll
-E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.2019.Tests\bin\Debug\netcoreapp2.1\AdventOfCode.Core.pdb

@@ -26,9 +26,14 @@ namespace AdventOfCode2019.Main
 
             var moduleEngine = serviceProvider.GetService<IFuelCalculator>();
 
-            var totalFuelRequirement = moduleEngine.ProcessMasses(modulesMasses.ToArray());
+            var fuelRequiredForModuleMasses = moduleEngine.GetRequiredFuelForModulesMasses(modulesMasses.ToArray());
 
-            Console.WriteLine("totalFuelRequirement " + totalFuelRequirement);
+            var fuelRequiredForFuelMasses = moduleEngine.GetRequiredFuelForFuelMasses(modulesMasses.ToArray());
+
+
+            Console.WriteLine("fuelRequiredForModuleMasses " + fuelRequiredForModuleMasses);
+            Console.WriteLine("fuelRequiredForFuelMasses " + fuelRequiredForFuelMasses);
+
             Console.ReadLine();
         }
     }

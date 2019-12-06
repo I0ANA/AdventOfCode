@@ -14,7 +14,7 @@ namespace AdventOfCode2019.Tests
         public void GetRequiredMassFuel(int mass, int expectedRequiredFuel)
         {
             var fuelCalculator = new FuelCalculator();
-            var fuel = fuelCalculator.GetRequiredFuel(mass);
+            var fuel = fuelCalculator.GetRequiredFuelForModuleMass(mass);
 
             Assert.AreEqual(expectedRequiredFuel, fuel);
         }
@@ -27,7 +27,7 @@ namespace AdventOfCode2019.Tests
         {
             var fuelCalculator = new FuelCalculator();
 
-            var requiredFuel = fuelCalculator.GetRequiredFuelFuel(0, mass);
+            var requiredFuel = fuelCalculator.GetRequiredFuelForFuelMass(mass);
 
             Assert.AreEqual(expectedRequiredFuel, requiredFuel);
         }

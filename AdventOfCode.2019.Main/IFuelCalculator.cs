@@ -2,7 +2,9 @@
 {
     public interface IFuelCalculator
     {
-        int GetRequiredFuel(int moduleMass);
-        int ProcessMasses(params int[] masses);
+        int GetRequiredFuelForModuleMass(int moduleMass);
+        int GetRequiredFuelForModulesMasses(params int[] masses);
+        int GetRequiredFuelForFuelMass(int fuelMass);
+        int GetRequiredFuelForFuelMasses(params int[] fuelMassed);
     }
 }
