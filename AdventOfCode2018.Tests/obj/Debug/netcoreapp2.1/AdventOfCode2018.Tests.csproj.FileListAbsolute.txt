@@ -33,3 +33,5 @@ E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode2018.Tests\obj\De
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.csproj.CopyComplete
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.dll
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode2018.Tests\obj\Debug\netcoreapp2.1\AdventOfCode2018.Tests.pdb
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode.Core.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode2018.Tests\bin\Debug\netcoreapp2.1\AdventOfCode.Core.pdb

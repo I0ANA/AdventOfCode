@@ -1,8 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using AdventOfCode.Core.Interfaces;
 using Microsoft.Extensions.FileProviders;
 
-namespace AdventOfCode.Core
+namespace AdventOfCode.Core.Services
 {
     public class FileImporter : IFileImporter
     {
@@ -25,6 +27,28 @@ namespace AdventOfCode.Core
                     {
                         var line = reader.ReadLine();
                         list.Add(int.Parse(line));
+                    }
+                }
+            };
+
+            return list;
+        }
+
+        public IEnumerable<int> ReadFile(string path, string separator)
+        {
+            var list = new List<int>();
+
+            using (var stream = _fileProvider.GetFileInfo(path).CreateReadStream())
+            {
+                using (var reader = new StreamReader(stream))
+                {
+                    while (!reader.EndOfStream)
+                    {
+                        var line = reader.ReadLine();
+
+                        var temp = line.Split(separator). Select(x => int.Parse(x));
+
+                        list.AddRange(temp);
                     }
                 }
             };

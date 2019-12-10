@@ -6,3 +6,12 @@ E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\n
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.AssemblyInfo.cs
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.dll
 E:\Igentics\Projects\LearningProjects\AdventOfCode\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.pdb
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\bin\Debug\netcoreapp2.1\AdventOfCode.Core.deps.json
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\bin\Debug\netcoreapp2.1\AdventOfCode.Core.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\bin\Debug\netcoreapp2.1\AdventOfCode.Core.pdb
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.csprojAssemblyReference.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.AssemblyInfoInputs.cache
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.AssemblyInfo.cs
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.dll
+C:\Projects\Learn\AdventOfCode2018\AdventOfCode.Core\obj\Debug\netcoreapp2.1\AdventOfCode.Core.pdb
