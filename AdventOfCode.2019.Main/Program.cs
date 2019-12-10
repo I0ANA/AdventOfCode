@@ -38,9 +38,9 @@ namespace AdventOfCode2019.Main
             //Console.WriteLine("fuelRequiredForFuelMasses " + fuelRequiredForFuelMasses);
 
             //Day 2
-            var intcodeInput = fileImporter.ReadFile("AdventOfCode2019_Day2_Intcode.txt", ",").ToArray();
             var intcodeProcessor = serviceProvider.GetService<IIntcodeProcessor>();
 
+            var intcodeInput = fileImporter.ReadFile("AdventOfCode2019_Day2_Intcode.txt", ",").ToArray();
             intcodeInput[1] = 12;
             intcodeInput[2] =  2;
             var processedIntcode = intcodeProcessor.ProcessOpcodes(intcodeInput);
@@ -49,6 +49,11 @@ namespace AdventOfCode2019.Main
             //value at position 0 after processing 521344 -- not right  --forgot to apply pre-process requirements...
             //4945026
 
+            //Part two
+            intcodeInput = fileImporter.ReadFile("AdventOfCode2019_Day2_Intcode.txt", ",").ToArray();
+            var result = intcodeProcessor.FindInputsThatProduce(19690720, intcodeInput, 12, 2);
+
+            Console.WriteLine($"Inputs That Produce 19690720 as 100 * noun {result.Item1} + verb {result.Item2} " + result.Item3);
             Console.ReadLine();
         }
     }
