@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace AdventOfCode2019.Main
+namespace AdventOfCode2019.Main.Services
 {
     public class FuelCalculator : IFuelCalculator
     {
@@ -25,7 +25,7 @@ namespace AdventOfCode2019.Main
 
             if (currentReqFuel <= 0)
                 return 0;
-            
+
             var totalReqFuel = currentReqFuel + GetRequiredFuelForFuelMass(currentReqFuel);
 
             return totalReqFuel;

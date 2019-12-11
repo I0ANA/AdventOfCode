@@ -1,4 +1,4 @@
-using AdventOfCode2019.Main;
+using AdventOfCode2019.Main.Services;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AdventOfCode2019.Tests

@@ -1724,7 +1724,8 @@
           "AdventOfCode.Core": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.0.1",
           "Microsoft.Extensions.FileProviders.Abstractions": "3.0.1",
-          "Microsoft.Extensions.FileProviders.Physical": "3.0.1"
+          "Microsoft.Extensions.FileProviders.Physical": "3.0.1",
+          "Microsoft.NETCore.App": "2.1.0"
         },
         "compile": {
           "bin/placeholder/AdventOfCode2019.Main.dll": {}
@@ -6088,23 +6089,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ioana.coruga\\.nuget\\packages\\": {},
+    "C:\\Users\\corug\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Igentics\\Projects\\LearningProjects\\AdventOfCode\\AdventOfCode.2019.Tests\\AdventOfCode2019.Tests.csproj",
+      "projectUniqueName": "C:\\Projects\\Learn\\AdventOfCode2018\\AdventOfCode.2019.Tests\\AdventOfCode2019.Tests.csproj",
       "projectName": "AdventOfCode2019.Tests",
-      "projectPath": "E:\\Igentics\\Projects\\LearningProjects\\AdventOfCode\\AdventOfCode.2019.Tests\\AdventOfCode2019.Tests.csproj",
-      "packagesPath": "C:\\Users\\ioana.coruga\\.nuget\\packages\\",
-      "outputPath": "E:\\Igentics\\Projects\\LearningProjects\\AdventOfCode\\AdventOfCode.2019.Tests\\obj\\",
+      "projectPath": "C:\\Projects\\Learn\\AdventOfCode2018\\AdventOfCode.2019.Tests\\AdventOfCode2019.Tests.csproj",
+      "packagesPath": "C:\\Users\\corug\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Learn\\AdventOfCode2018\\AdventOfCode.2019.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ioana.coruga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\corug\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6117,8 +6118,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\Igentics\\Projects\\LearningProjects\\AdventOfCode\\AdventOfCode.2019.Main\\AdventOfCode2019.Main.csproj": {
-              "projectPath": "E:\\Igentics\\Projects\\LearningProjects\\AdventOfCode\\AdventOfCode.2019.Main\\AdventOfCode2019.Main.csproj"
+            "C:\\Projects\\Learn\\AdventOfCode2018\\AdventOfCode.2019.Main\\AdventOfCode2019.Main.csproj": {
+              "projectPath": "C:\\Projects\\Learn\\AdventOfCode2018\\AdventOfCode.2019.Main\\AdventOfCode2019.Main.csproj"
             }
           }
         }
@@ -6145,23 +6146,16 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
