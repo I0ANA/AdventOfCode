@@ -1,4 +1,5 @@
 ﻿using System;
+using AdventOfCode.Core.Enums;
 
 namespace AdventOfCode2019.Main.Services
 {
