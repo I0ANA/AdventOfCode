@@ -4,7 +4,11 @@
     {
         public int FindManhattanDistanceFromTheCentralPortToTheClosestIntersection(string pathWire1, string pathWire2)
         {
+
+
             throw new System.NotImplementedException();
         }
+
+
     }
 }
